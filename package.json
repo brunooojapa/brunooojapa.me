@@ -1,7 +1,7 @@
 {
   "name": "brunooojapagithub",
   "version": "3.0.1",
-  "homepage": "https://github.com/brunooojapa/brunooojapa.github.io",
+  "homepage": "https: //brunooojapa.github.io/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.0",
